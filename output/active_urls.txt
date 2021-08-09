@@ -1,7 +1,0 @@
-http://kk.gzbus.com:8000
-http://oa.gzbus.com
-http://www.gzbus.com
-https://hr.gzbus.com
-https://kk.gzbus.com:8443
-https://oa.gzbus.com
-https://www.gzbus.com
