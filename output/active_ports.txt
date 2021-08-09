@@ -1,9 +1,0 @@
-hr.gzbus.com:443
-kk.gzbus.com:22
-kk.gzbus.com:5000
-kk.gzbus.com:8000
-kk.gzbus.com:8443
-oa.gzbus.com:443
-oa.gzbus.com:80
-www.gzbus.com:443
-www.gzbus.com:80
