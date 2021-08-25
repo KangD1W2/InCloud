@@ -1,0 +1,6 @@
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,resultfile
+home,http://www.gdbaopo.com/home,,5646,200,16524,4871,263,text/html; charset=utf-8,
+home.html,http://www.gdbaopo.com/home.html,,5648,200,16524,4871,263,text/html; charset=utf-8,
+index.php,http://www.gdbaopo.com/index.php,,5858,200,16524,4871,263,text/html; charset=utf-8,
+index.php.,http://www.gdbaopo.com/index.php.,,5861,200,16524,4871,263,text/html; charset=utf-8,
+intro,http://www.gdbaopo.com/intro,,5974,200,10991,1586,153,text/html; charset=utf-8,

@@ -1,0 +1,3 @@
+www.gdbaopo.com:21
+www.gdbaopo.com:3306
+www.gdbaopo.com:80

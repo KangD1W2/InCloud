@@ -1,0 +1,33 @@
+
+
+
+
+
+
+
+
++---------------------------------------------------+
++---------------------------------------------------+
+2021-08-25 02:34:59  id: 1 [*] Start: http://www.gdbaopo.com/home
+2021-08-25 02:35:00  id: 1 [-] http://www.gdbaopo.com/home Parse Error: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2021-08-25 02:35:00  id: 2 [*] Start: http://www.gdbaopo.com/home.html
+2021-08-25 02:35:00  id: 2 [-] http://www.gdbaopo.com/home.html Parse Error: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2021-08-25 02:35:00  id: 3 [*] Start: http://www.gdbaopo.com/intro
+2021-08-25 02:35:01  id: 3 [-] http://www.gdbaopo.com/intro Parse Error: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2021-08-25 02:35:01  id: 4 [*] Start: http://www.gdbaopo.com/index.php.
+2021-08-25 02:35:01  id: 4 [-] http://www.gdbaopo.com/index.php. Parse Error: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2021-08-25 02:35:01  id: 5 [*] Start: http://www.gdbaopo.com/index.php
+2021-08-25 02:35:01  id: 5 [-] http://www.gdbaopo.com/index.php Parse Error: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+All processes done! Cost time: 0:00:02.326390
+File or Url:
+weburl.txt exists!
+|                                                   |
+|                  version: 2.2                     |
+|                 code by @yzddmr6                  |
+|     \/  \/ \___|_.__/ \_____|_|  \__,_|\___|_|\_\ |
+|    \  /\  /  __/ |_) | |____| | | (_| | (__|   <  |
+|   \ \/  \/ / _ \ '_ \| |    | '__/ _' |/ __| |/ / |
+|  \ \  /\  / /__| |__ | |     _ __ __ _  ___| | __ |
+| \ \        / / | |    / ____|              | |    |
+| __          __  _      _____                _     |
+总任务数: 5
