@@ -1,3 +1,4 @@
-www.gdbaopo.com:21
-www.gdbaopo.com:3306
-www.gdbaopo.com:80
+www.entrepark.com:1433
+www.entrepark.com:21
+www.entrepark.com:443
+www.entrepark.com:80

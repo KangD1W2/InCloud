@@ -6,19 +6,22 @@
 
 
 
+
 +---------------------------------------------------+
 +---------------------------------------------------+
-2021-08-25 02:34:59  id: 1 [*] Start: http://www.gdbaopo.com/home
-2021-08-25 02:35:00  id: 1 [-] http://www.gdbaopo.com/home Parse Error: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-2021-08-25 02:35:00  id: 2 [*] Start: http://www.gdbaopo.com/home.html
-2021-08-25 02:35:00  id: 2 [-] http://www.gdbaopo.com/home.html Parse Error: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-2021-08-25 02:35:00  id: 3 [*] Start: http://www.gdbaopo.com/intro
-2021-08-25 02:35:01  id: 3 [-] http://www.gdbaopo.com/intro Parse Error: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-2021-08-25 02:35:01  id: 4 [*] Start: http://www.gdbaopo.com/index.php.
-2021-08-25 02:35:01  id: 4 [-] http://www.gdbaopo.com/index.php. Parse Error: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-2021-08-25 02:35:01  id: 5 [*] Start: http://www.gdbaopo.com/index.php
-2021-08-25 02:35:01  id: 5 [-] http://www.gdbaopo.com/index.php Parse Error: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-All processes done! Cost time: 0:00:02.326390
+2021-08-25 09:03:59  id: 1 [*] Start: http://www.gdbaopo.com/home
+2021-08-25 09:04:00  id: 1 [-] http://www.gdbaopo.com/home Parse Error: Can not get form
+2021-08-25 09:04:00  id: 2 [*] Start: http://www.gdbaopo.com/home.html
+2021-08-25 09:04:05  id: 2 [-] http://www.gdbaopo.com/home.html Parse Error: Can not get form
+2021-08-25 09:04:05  id: 3 [*] Start: http://www.gdbaopo.com/index.php
+2021-08-25 09:04:06  id: 3 [-] http://www.gdbaopo.com/index.php Parse Error: Can not get form
+2021-08-25 09:04:06  id: 4 [*] Start: http://www.gdbaopo.com/index.php.
+2021-08-25 09:04:11  id: 4 [-] http://www.gdbaopo.com/index.php. Parse Error: Can not get form
+2021-08-25 09:04:11  id: 5 [*] Start: http://www.gdbaopo.com/intro
+2021-08-25 09:04:12  id: 5 [-] http://www.gdbaopo.com/intro Parse Error: Can not get form
+2021-08-25 09:04:12  id: 6 [*] Start: http://www.entrepark.com/images/logo.gif
+2021-08-25 09:04:12  id: 6 [-] http://www.entrepark.com/images/logo.gif Parse Error: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+All processes done! Cost time: 0:00:13.242602
 File or Url:
 weburl.txt exists!
 |                                                   |
@@ -30,4 +33,4 @@ weburl.txt exists!
 |  \ \  /\  / /__| |__ | |     _ __ __ _  ___| | __ |
 | \ \        / / | |    / ____|              | |    |
 | __          __  _      _____                _     |
-总任务数: 5
+总任务数: 6
